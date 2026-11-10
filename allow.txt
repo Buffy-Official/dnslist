@@ -1,0 +1,3 @@
+@@||discordapp.com^
+@@||cdn.discordapp.com^
+@@||minotar.net^
